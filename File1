@@ -1,0 +1,40 @@
+Python for  Data Science
+Install Anaconda
+
+Python builtin data containers(data structure)
+1. Tuples
+2. List
+3. Dict(dictinoary)
+4. Set
+
+1. Tuple
+-tuple is a sequence of imuutable object, meaing the value of tuple cannot be changed like list and dictinoary.
+-declaring tuple
+ 
+  tuple1=()
+  
+  eg: tup1=("name","subject",'phone',20,30,23.21)
+ 
+-we use small brackets(paranthesis)
+-no items can be added or removed
+-same order is maintained
+
+
+
+2. List
+-list is a sequence of mutable object, meaning the value can be added removed or changed, oder can be also changed
+-declaring list
+
+  list1=[]
+
+  eg: lst1=["name","subject",'phone',20,30,23.21]
+
+
+
+
+
+
+
+
+
+
